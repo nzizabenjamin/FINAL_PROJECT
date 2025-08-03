@@ -54,6 +54,8 @@ Power BI was used to visualize trends and relationships:
 - Rainfall (mm/year)
 - Temperature (°C)
 
+- ![powerbi dashboard](https://github.com/nzizabenjamin/FINAL_PROJECT/blob/69314d8a2214afd2d7e874ef89a8a17accd04fe0/Screenshot%202025-08-03%20201507.png)
+
 ---
 
 ## 🤖 Model Building
