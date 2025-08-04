@@ -73,11 +73,6 @@ Two regression models were built in Python to predict yield:
 
 ---
 
-## 📁 File Structure
-
-
----
-
 ## 🧠 Key Insights
 
 - Rainfall is a **strong predictor** of maize yield.
